@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lauren Hinton</title>
-    <link href="https://laurenhinton.com/feed.xml" rel="self" />
-    <link href="https://laurenhinton.com" />
+    <link href="https://lauren-hinton-personal-site.pages.dev/feed.xml" rel="self" />
+    <link href="https://lauren-hinton-personal-site.pages.dev" />
     <updated>2025-12-02T14:00:03-05:00</updated>
     <author>
         <name>Lauren Hinton</name>
     </author>
-    <id>https://laurenhinton.com</id>
+    <id>https://lauren-hinton-personal-site.pages.dev</id>
 
     <entry>
         <title>Thought Haver</title>
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://laurenhinton.com/thought-haver.html"/>
-        <id>https://laurenhinton.com/thought-haver.html</id>
+        <link href="https://lauren-hinton-personal-site.pages.dev/thought-haver.html"/>
+        <id>https://lauren-hinton-personal-site.pages.dev/thought-haver.html</id>
 
         <updated>2025-12-02T11:15:19-05:00</updated>
             <summary type="html">
@@ -42,8 +42,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://laurenhinton.com/when-is-failure-a-success.html"/>
-        <id>https://laurenhinton.com/when-is-failure-a-success.html</id>
+        <link href="https://lauren-hinton-personal-site.pages.dev/when-is-failure-a-success.html"/>
+        <id>https://lauren-hinton-personal-site.pages.dev/when-is-failure-a-success.html</id>
 
         <updated>2025-12-02T11:14:48-05:00</updated>
             <summary type="html">
@@ -74,8 +74,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://laurenhinton.com/the-prequel-to-partner.html"/>
-        <id>https://laurenhinton.com/the-prequel-to-partner.html</id>
+        <link href="https://lauren-hinton-personal-site.pages.dev/the-prequel-to-partner.html"/>
+        <id>https://lauren-hinton-personal-site.pages.dev/the-prequel-to-partner.html</id>
 
         <updated>2025-12-02T11:13:57-05:00</updated>
             <summary type="html">
@@ -108,8 +108,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://laurenhinton.com/the-undeniable-linkage-between-startups-and-fantasy-football.html"/>
-        <id>https://laurenhinton.com/the-undeniable-linkage-between-startups-and-fantasy-football.html</id>
+        <link href="https://lauren-hinton-personal-site.pages.dev/the-undeniable-linkage-between-startups-and-fantasy-football.html"/>
+        <id>https://lauren-hinton-personal-site.pages.dev/the-undeniable-linkage-between-startups-and-fantasy-football.html</id>
 
         <updated>2025-12-02T11:12:47-05:00</updated>
             <summary type="html">
