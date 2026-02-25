@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lauren Hinton</title>
-    <link href="https://lauren-hinton-personal-site.pages.dev/feed.xml" rel="self" />
-    <link href="https://lauren-hinton-personal-site.pages.dev" />
-    <updated>2026-01-31T00:53:37-05:00</updated>
+    <link href="https://laurenhinton.co/feed.xml" rel="self" />
+    <link href="https://laurenhinton.co" />
+    <updated>2026-01-31T00:54:25-05:00</updated>
     <author>
         <name>Lauren Hinton</name>
     </author>
-    <id>https://lauren-hinton-personal-site.pages.dev</id>
+    <id>https://laurenhinton.co</id>
 
     <entry>
         <title>A Light Lunch</title>
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/a-light-lunch.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/a-light-lunch.html</id>
+        <link href="https://laurenhinton.co/a-light-lunch.html"/>
+        <id>https://laurenhinton.co/a-light-lunch.html</id>
 
         <updated>2026-01-31T00:20:02-05:00</updated>
             <summary type="html">
@@ -49,8 +49,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/the-village.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/the-village.html</id>
+        <link href="https://laurenhinton.co/the-village.html"/>
+        <id>https://laurenhinton.co/the-village.html</id>
 
         <updated>2025-12-30T11:06:51-05:00</updated>
             <summary type="html">
@@ -79,8 +79,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/thought-haver.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/thought-haver.html</id>
+        <link href="https://laurenhinton.co/thought-haver.html"/>
+        <id>https://laurenhinton.co/thought-haver.html</id>
 
         <updated>2025-12-02T11:15:19-05:00</updated>
             <summary type="html">
@@ -107,8 +107,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/when-is-failure-a-success.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/when-is-failure-a-success.html</id>
+        <link href="https://laurenhinton.co/when-is-failure-a-success.html"/>
+        <id>https://laurenhinton.co/when-is-failure-a-success.html</id>
 
         <updated>2025-12-02T11:14:48-05:00</updated>
             <summary type="html">
@@ -139,8 +139,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/the-prequel-to-partner.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/the-prequel-to-partner.html</id>
+        <link href="https://laurenhinton.co/the-prequel-to-partner.html"/>
+        <id>https://laurenhinton.co/the-prequel-to-partner.html</id>
 
         <updated>2025-12-02T11:13:57-05:00</updated>
             <summary type="html">
@@ -173,8 +173,8 @@
         <author>
             <name>Lauren Hinton</name>
         </author>
-        <link href="https://lauren-hinton-personal-site.pages.dev/the-undeniable-linkage-between-startups-and-fantasy-football.html"/>
-        <id>https://lauren-hinton-personal-site.pages.dev/the-undeniable-linkage-between-startups-and-fantasy-football.html</id>
+        <link href="https://laurenhinton.co/the-undeniable-linkage-between-startups-and-fantasy-football.html"/>
+        <id>https://laurenhinton.co/the-undeniable-linkage-between-startups-and-fantasy-football.html</id>
 
         <updated>2025-12-02T11:12:47-05:00</updated>
             <summary type="html">
