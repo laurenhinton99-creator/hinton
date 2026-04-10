@@ -3,12 +3,35 @@
     <title>Lauren Hinton</title>
     <link href="https://laurenhinton.co/feed.xml" rel="self" />
     <link href="https://laurenhinton.co" />
-    <updated>2026-02-26T23:32:17-05:00</updated>
+    <updated>2026-04-10T17:57:36-04:00</updated>
     <author>
         <name>Lauren Hinton</name>
     </author>
     <id>https://laurenhinton.co</id>
 
+    <entry>
+        <title>March</title>
+        <author>
+            <name>Lauren Hinton</name>
+        </author>
+        <link href="https://laurenhinton.co/march.html"/>
+        <id>https://laurenhinton.co/march.html</id>
+
+        <updated>2026-04-10T17:57:36-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    March March 31, 2026 March for me was uninspiring and, dare I say, abnormally stressful. High hopes for April!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="lh-post-title-heading">March</h1>
+<div class="lh-post-date-single">March 31, 2026</div>
+<p><span style="font-weight: 400;"> March for me was uninspiring and, dare I say, abnormally stressful.</span></p>
+<p><span style="font-weight: 400;"> High hopes for April!</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Platform</title>
         <author>
